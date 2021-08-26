@@ -1,4 +1,4 @@
-### welcome to my profile, my is Matheus Alencar Silva
+### welcome to my profile, my name is Matheus Alencar Silva
 
 ##
 
