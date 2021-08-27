@@ -1,4 +1,4 @@
-### Welcome to my profile, my name is Matheus Alencar Silva
+### Welcome to my profile !!!
 
 ##
 
@@ -10,14 +10,13 @@ Future Desenvolvedor Java jr.
 <div>
   <a href="https://github.com/matlencar">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matlencar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" width="em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlencar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" width="560em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlencar&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="matlencar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matlencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="matlencar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="matlencar-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg>
 </div>
   
   ##
