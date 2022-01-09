@@ -1,9 +1,10 @@
 ### Welcome to my profile !!!
 
 ##
+Sempre buscando novos conhecimentos e maneiras de se desenvolver
 
-Atualmente estudando na Generation - 
-Future Desenvolvedor Java jr.
+Formado na Generation como Desenvolvedor Full Stack - 
+Future Dev.
 
 ##
 
