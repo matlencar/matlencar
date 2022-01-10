@@ -24,8 +24,8 @@ Future Dev.
    <img align="center" alt="matlencar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="matlencar-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="matlencar-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   <img align="center" alt="matlencar-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="matlencar-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/oracle/oracle-original.svg" />
+   <img align="center" alt="matlencar-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="matlencar-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/icons/oracle/oracle-original.svg">
 </div>
   
   ##
