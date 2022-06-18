@@ -1,6 +1,6 @@
 ### Ola, me chamo Matheus Alencar Silva, atualmente estou estudando Analise e Desenvolvimento de Sistemas e buscando trilhar meu caminho profissional como desenvolvedor, já fazem quase 2 anos que estou estudando e me dedicando para ingressar nessa area.
 
-## Sempre buscando novos conhecimentos e maneiras de se desenvolver
+## Sempre buscando novos conhecimentos e maneiras de me desenvolver
 
 ### Formado na Generation como Desenvolvedor Full Stack - Future Dev.
 
