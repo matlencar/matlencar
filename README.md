@@ -4,11 +4,9 @@
 
 ### Formado na Generation como Desenvolvedor Full Stack - Future Dev.
 
-### Analise e Deesnvolvimento de Sistemas - FIAP
+### Analise e Desenvolvimento de Sistemas - FIAP
 
-### Link do meu LinkedIn:
 
-### https://www.linkedin.com/in/matheus-alencar-silva-26894a109/
 
 <div>
   <a href="https://github.com/matlencar">
